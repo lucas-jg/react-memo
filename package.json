@@ -13,8 +13,12 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "mongoose": "^5.2.12",
+    "morgan": "^1.9.0",
     "react": "^15.2.1",
     "react-dom": "^15.2.1"
   },
